@@ -1,3 +1,1 @@
-<script>
-  $( "#widget-connect" ).load( "http://enter-your-page.com", function());
-</script>
+$( "#widget-connect" ).load( "http://serving-page-url.com" );
